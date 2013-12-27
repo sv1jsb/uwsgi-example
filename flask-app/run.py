@@ -9,12 +9,12 @@ def index():
             <!DOCTYPE html>
             <html>
             <head>
-                <title>Master branch</title>
+                <title>Feature A branch</title>
             </head>
             <body>
             <h1>Hello world!</h1>
-            <h3>from master branch</h3>
-            <img src="/static/master.png"/>
+            <h3>from feature-a branch</h3>
+            <img src="/static/feature-a.png"/>
             </body>
             </html>
     """
